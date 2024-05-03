@@ -8,12 +8,12 @@
       id="id-91bb0c24411e4415b53026a2f680b3ac">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-48bca8577c5b45d09d569691d7b306ff"
+        id="id-24dc4d2aaeb1456ca4f85447c47f814a"
         source="id-91bb0c24411e4415b53026a2f680b3ac"
-        target="id-4548503a78bd47eb878c5ffb51d97156">
+        target="id-99aec5e5412d4797868f2b2caf119fe9">
       <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-987259ef324d423d8e44559ecbcdf620.xml#id-987259ef324d423d8e44559ecbcdf620"/>
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-ed4fd61f35c44937881cb15cf0f82d13.xml#id-ed4fd61f35c44937881cb15cf0f82d13"/>
     </sourceConnections>
     <bounds
         x="320"
@@ -26,30 +26,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4548503a78bd47eb878c5ffb51d97156"
-      targetConnections="id-48bca8577c5b45d09d569691d7b306ff">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-5974b58569be46dc8dfb3b0d61a703e3"
-        source="id-4548503a78bd47eb878c5ffb51d97156"
-        target="id-99aec5e5412d4797868f2b2caf119fe9">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-47e8a22cde96424ba607df0b4a82000a.xml#id-47e8a22cde96424ba607df0b4a82000a"/>
-    </sourceConnections>
-    <bounds
-        x="492"
-        y="132"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-417ad0194c5f4a12a65151edf202918c.xml#id-417ad0194c5f4a12a65151edf202918c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-99aec5e5412d4797868f2b2caf119fe9"
-      targetConnections="id-5974b58569be46dc8dfb3b0d61a703e3">
+      targetConnections="id-24dc4d2aaeb1456ca4f85447c47f814a">
     <bounds
         x="660"
         y="132"
